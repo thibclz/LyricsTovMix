@@ -100,7 +100,7 @@ namespace LyricsTovMix
                     Spin(firstLine.Length, ref spinnerCallCount);
                 }
 
-                Thread.Sleep(300);
+                Thread.Sleep(100);
             }
         }
 
